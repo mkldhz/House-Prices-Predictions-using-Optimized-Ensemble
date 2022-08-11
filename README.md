@@ -1,5 +1,5 @@
 # House Prices Predictions using Optimized Ensemble
-This is a complete solution of the "House Prices - Advanced Regression Techniques" competition in Kaggle. The data set has 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. 
+This is a complete solution of the [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition in Kaggle. The data set has 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. 
 ## Goal
 The aim of the competiton is to predict with some a ccuracy the price of each house depending on it features.
 ## Metric
